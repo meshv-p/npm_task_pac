@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "gdc-task",
+  "main": "task.js",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "bin": {
+    "task": "task.js"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
